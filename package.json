@@ -60,7 +60,7 @@
   },
   "homepage": "https://github.com/zeit/micro#readme",
   "devDependencies": {
-    "ava": "^2.2.0",
+    "ava": "^3.0.0",
     "request": "^2.74.0",
     "request-promise": "^4.1.1",
     "resumer": "0.0.0",
