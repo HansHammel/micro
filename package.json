@@ -69,7 +69,7 @@
     "is-async-supported": "1.2.0",
     "isstream": "0.1.2",
     "media-typer": "1.1.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "raw-body": "2.4.1"
   }
 }
